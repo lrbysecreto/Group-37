@@ -4,5 +4,11 @@ Files and information of our MotorPh's basic payroll system
 Computer Programming 1 | Term 2 SY 2025 - 2026 
 BSIT in Marketing Technology | H1101 MotorPH Payroll System 
 
-Team Details:
+## Team Details:
 Bianca Ysobelle M. Secreto 
+
+## Task Assignments
+| Header 1 | Header 2 | Header 3 |
+|---|---|---|
+| Cell A1 | Cell A2 | Cell A3 |
+| Cell B1 | Cell B2 | Cell B3 |
