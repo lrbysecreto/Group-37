@@ -13,3 +13,7 @@ Bianca Ysobelle M. Secreto
 | Cell A1 | Cell A2 | Cell A3 |
 | Cell B1 | Cell B2 | Cell B3 |
 | task | member | hours |
+
+
+## Project Plan Link 
+# [MotorPh Project Plan] (https://docs.google.com/document/d/1qtZBACQL2BgaB_WU-YV54IGm1YEkf5AvdVvrZS6SG3Y/edit?usp=sharing)
