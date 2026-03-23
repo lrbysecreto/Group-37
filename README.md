@@ -16,4 +16,4 @@ Bianca Ysobelle M. Secreto
 
 
 ## Project Plan Link 
-# [MotorPh Project Plan] (https://docs.google.com/document/d/1qtZBACQL2BgaB_WU-YV54IGm1YEkf5AvdVvrZS6SG3Y/edit?usp=sharing)
+# [MotorPH Project Plan Link](https://docs.google.com/document/d/1qtZBACQL2BgaB_WU-YV54IGm1YEkf5AvdVvrZS6SG3Y/edit?usp=sharing)
