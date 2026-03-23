@@ -12,3 +12,4 @@ Bianca Ysobelle M. Secreto
 |---|---|---|
 | Cell A1 | Cell A2 | Cell A3 |
 | Cell B1 | Cell B2 | Cell B3 |
+| task | member | hours |
