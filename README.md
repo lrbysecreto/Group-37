@@ -17,3 +17,14 @@ Bianca Ysobelle M. Secreto
 
 ## Project Plan Link 
 #### [MotorPH Project Plan Link](https://docs.google.com/document/d/1qtZBACQL2BgaB_WU-YV54IGm1YEkf5AvdVvrZS6SG3Y/edit?usp=sharing)
+
+
+
+8. Net Salary Calculation
+
+The system computes:
+
+Total Deductions = SSS + PhilHealth + Pag-IBIG + Tax
+Net Salary = Gross Salary − Deductions
+
+The final salary is displayed for each cutoff period.
