@@ -10,7 +10,7 @@ Bianca Ysobelle M. Secreto
 ## Task Assignments
 | Header 1 | Header 2 | Header 3 |
 |---|---|---|
-| Cell A1 | Cell A2 | Cell A3 |
+| Cell A1 | Cell A2 | Bianca secreto   Benedict Pahati    Catherin Alcantara     Mary mesinas |
 | Cell B1 | Cell B2 | Cell B3 |
 | task | member | hours |
 
